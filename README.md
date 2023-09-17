@@ -8,4 +8,4 @@ This Project was done while following [Data Analyst Portfolio Project | SQL Data
 
 ## Screenshots
 
-![Dashboard Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/Srayoshi-Mirza/South-Asian-Mental-Health-Stat/blob/5090cd19be6ab24aca487645928911f8449bd37a/Dashboard%201.png)https://github.com/Srayoshi-Mirza/South-Asian-Mental-Health-Stat/blob/5090cd19be6ab24aca487645928911f8449bd37a/Dashboard%201.png)
+![Dashboard Screenshot](https://github.com/Srayoshi-Mirza/South-Asian-Mental-Health-Stat/blob/main/Dashboard%201.png)
