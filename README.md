@@ -6,6 +6,6 @@ The Visualization: [Bangladesh Mental Health Stat](https://public.tableau.com/ap
 This Project was done while following [Data Analyst Portfolio Project | SQL Data Exploration | Project 1/4](https://youtu.be/qfyynHBFOsM?si=tbLdwBZCioccyAnx)
 
 
-## Screenshots
+## The Dashboard
 
 ![Dashboard Screenshot](https://github.com/Srayoshi-Mirza/South-Asian-Mental-Health-Stat/blob/main/Dashboard%201.png)
